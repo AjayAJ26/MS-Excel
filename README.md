@@ -24,6 +24,14 @@ The analysis focuses on:
 
 ---
 
+## 🔗 Project Links  
+- 📂 **Linkedin Post:** [View Post](https://www.linkedin.com/feed/update/urn:li:activity:7419057022232412160/)  
+- 🌐 **Live Dashboard / Report:** [View Dashboard]()  
+<!-- 📊 **Project Presentation (Optional):** [View Slides](https://your-presentation-link.com)  -->
+
+
+---
+
 ## 🔢 Data Sources  
 The dataset includes:  
 - 🏬 Outlet Information (Type, Size, Location)  
