@@ -26,7 +26,7 @@ The analysis focuses on:
 
 ## 🔗 Project Links  
 - 📂 **Linkedin Post:** [View Post](https://www.linkedin.com/feed/update/urn:li:activity:7419057022232412160/)  
-- 🌐 **Live Dashboard / Report:** [View Dashboard]()  
+- 🌐 **Live Dashboard / Report:** [View Dashboard](https://github.com/AjayAJ26/MS-Excel/blob/f34b4228029905de23d1cfdfab017f95e8a02db2/BlinkIT%20Grocery%20Data%20Excel%20Report.xlsx)  
 <!-- 📊 **Project Presentation (Optional):** [View Slides](https://your-presentation-link.com)  -->
 
 
