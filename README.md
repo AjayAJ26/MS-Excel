@@ -1,132 +1,125 @@
-# Unlocking Business Insights in Excel: AtliQ Hardwares Case Study
+# 📊 Unlocking Business Insights in Excel: AtliQ Hardwares Case Study  
 
-***A deep dive into sales and finance analytics to uncover trends, drive performance, and support strategic decisions using advanced Excel techniques: Power Query, Power Pivot, and DAX.***
-
-
-### ❗The Problem
-- AtliQ Hardwares faced inconsistent sales performance and opaque profitability across products, divisions, and markets.
-- Fragmented data and a lack of consolidated insights hindered decision-making.
-- There was a need to track key KPIs for sales and finance to guide operational improvements and strategic planning.
+*A practical project focused on analyzing sales and financial data to uncover trends, improve performance, and support business decisions using Excel (Power Query, Power Pivot, and DAX).*
 
 ---
 
-
-##  📝 Overview
-
-AtliQ Hardwares operates in diverse global markets, with multiple products, divisions, and distributors. 
-
-However, challenges like inconsistent sales performance, unmet targets, and opaque profitability require in-depth analysis to inform decision-making and strategic planning. 
-
-This project solves these challenges through two sub-projects:
-
-1. **[Sales Analytics]**: Focusing on customer and market performance over three years (2019 - 2021).
-2. **[Finance Analytics]**: Breaking down profitability and financial performance using Profit & Loss (P&L) reports for these 3 years. 
-
-
-**NOTE:** AtliQ Hardwares follows a fiscal cycle from September through August (Sep - Aug).
-
+## ❗ Problem Statement  
+AtliQ Hardwares faced several challenges:  
+- Inconsistent sales performance across products and markets  
+- Limited visibility into profitability  
+- Disconnected data sources, making analysis difficult  
+- Lack of clear KPIs for tracking business performance  
 
 ---
 
-## 🔢 Data Sources
+## 📝 Project Overview  
+AtliQ Hardwares operates across multiple markets, products, and customer segments. To address the challenges, this project focuses on analyzing data and generating actionable insights.
 
-The data modeling for this project is based upon four mock datasets, curated by Codebasics, consisting of: 
+The project is divided into two parts:  
+1. **Sales Analytics** – Analysis of customer and market performance (2019–2021)  
+2. **Finance Analytics** – Profitability analysis using Profit & Loss (P&L) reports  
 
-➡️ Customer
-➡️ Product
-➡️ Market
-➡️ Monthly Sales data
-
----
-
-## Sales Analytics: Understanding Performance and Trends
-
-### ✅ Solution
-- Built a **[Customer Performance Report]** for global distributors and a **[Market Performance Report]** for all operating countries.  
-- Created intuitive visualizations in Excel to compare 2021 actual sales against targets.  
-- Used **Power Query** for data preparation, **Power Pivot** for modeling, and **DAX** for calculated metrics (e.g., target differentials and % achievement).  
-
-### 🌟 Impact
-- Enabled easy identification of **top- and bottom-performing products and markets**.  
-- Allowed monitoring of **customer and division performance trends** over 2019–2021.  
-- Improved visibility into sales targets vs actual performance, supporting **data-driven decision-making**.  
-
-
-### 📊 Key Metrics
-- **Net Sales Growth (Year-over-Year)** Measures overall sales revenue growth across products, divisions, and markets.  
-- **Sales Targets vs Actual Sales:** Tracks efficiency of achieving business targets.  
-- **Top 5 Performing Markets by Net Sales:** Identifies markets contributing most to revenue.  
-- **Customer Performance:** Highlights customers driving the highest sales volumes for better resource allocation.  
-- **Top 5 & Bottom 5 Products by Volume of Sales:** Guides product focus, marketing, and inventory management.  
-
-
-### ❓ Questions Answered
-The analysis addresses critical business questions such as:
-- **[Top-performing products]**: Which 10 products saw the highest net sales growth from 2020 to 2021?
-- **[Division trends]**: What are the growth trends across business divisions for 2020 and 2021?
-- **[Product rankings]**: Which products are in the top 5 and bottom 5 by quantity sold?
-- **[New product launches]**: What products were introduced in 2021?
-- **[Market leaders]**: Which 5 countries achieved the highest net sales in 2021?
-
+> ⚠️ **Note:** The company follows a fiscal year from **September to August**.
 
 ---
 
-## Finance Analytics: Building Comprehensive Profitability Insights
-
-### ✅ Solution
-- Create detailed **[Profit & Loss Statements by Fiscal Year]**, **[Month]**, **[Market]**, and **[Zone]**.  
-- Derived key profitability metrics such as **Gross Margin**, **Gross Margin %**, and **COGS per unit**.  
-- Built **dynamic Excel dashboards** using Power Pivot and DAX to monitor financial performance across regions and time periods.  
-
-
-### 🌟 Impact
-- Improved visibility into **profitability by product, division, market, and zone**.  
-- Supported **forecasting, budgeting, and operational efficiency improvements**.  
-- Enabled comparison of financial performance across years and regions, helping identify **growth opportunities and cost inefficiencies**.  
-
-
-### 📊 Key Metrics
-*   **Cost of Goods Sold (COGS) per Unit**: Evaluates cost efficiency per product.  
-*   **Gross Profit Margin:** Measures profitability of core operations after accounting for COGS.  
-*   **Profit & Loss (P&L) by Month and Year:** Identifies key trends and anomalies in financial performance.  
-*   **Profit & Loss (P&L) by Market and Zone:** Reveals profitability performance for each region.  
-
-### 📝 Role of Reports
-- Provide actionable insights for **informed decision-making**.  
-- Build confidence in the financial health of the business.  
-- Support precise **forecasting and budgeting**.  
-- Allow **performance comparison** across years and regions to spot growth opportunities and cost inefficiencies.  
+## 🔢 Data Sources  
+The analysis is based on four datasets:  
+- 📁 Customer  
+- 📦 Product  
+- 🌍 Market  
+- 📅 Monthly Sales  
 
 ---
 
-## Skills & Tools Highlighted
+## 📊 Sales Analytics  
 
-### **Technical Skills**
-- [x] **ETL (Extract, Transform, Load)** to prepare and cleanse data.
-- [x] **Power Query**: Generated a comprehensive date table, derived fiscal months and quarters.
-- [x] **Power Pivot**: Built and optimized data model relationships.
-- [x] **DAX**: Created calculated columns for metrics like target differentials in actuals and %.
-- [x] **Data Visualization**: Applied advanced intuitive conditional formatting.
+### ✅ Solution  
+- Built **Customer Performance** and **Market Performance** reports  
+- Compared **2021 actual sales vs targets**  
+- Used:  
+  - Power Query for data cleaning  
+  - Power Pivot for data modeling  
+  - DAX for calculations  
 
-### **Soft Skills**
-- [x] Empathy-driven report design to meet user needs.
-- [x] Systematic planning to ensure scalable and actionable outputs.
-- [x] Optimization and fine-tuning of report generation for clarity and accuracy.
-- [x] Robust understanding of Sales and Finance Analytics to uncover business-critical insights.
+### 🌟 Impact  
+- Identified top and low-performing products and markets  
+- Tracked performance trends over 3 years  
+- Enabled better decision-making with clear insights  
+
+### 📌 Key Metrics  
+- 📈 Year-over-Year **Net Sales Growth**  
+- 🎯 **Sales vs Target Performance**  
+- 🌍 Top markets by revenue  
+- 👥 Customer contribution to sales  
+- 📦 Best and worst-performing products  
+
+### ❓ Business Questions Answered  
+- Which products had the highest growth?  
+- How did different divisions perform?  
+- Which products ranked top and bottom in sales?  
+- What new products were launched in 2021?  
+- Which markets generated the most revenue?  
 
 ---
 
-## Acknowledgements
-[Codebasics](https://codebasics.io/)
+## 💰 Finance Analytics  
+
+### ✅ Solution  
+- Created **P&L reports** by Year, Month, Market, and Zone  
+- Calculated key metrics like:  
+  - Gross Margin  
+  - Gross Margin %  
+  - Cost of Goods Sold (COGS) per unit  
+- Built dynamic dashboards in Excel  
+
+### 🌟 Impact  
+- Improved visibility into profitability  
+- Supported budgeting and forecasting  
+- Helped identify cost inefficiencies and growth opportunities  
+
+### 📌 Key Metrics  
+- 💸 **COGS per Unit**  
+- 📊 **Gross Profit Margin**  
+- 📅 P&L trends over time  
+- 🌍 Profitability by market and region  
 
 ---
 
-## Conclusion
+## 🛠️ Skills & Tools  
 
-This project demonstrates my ability to:
-1. **Extract meaningful insights from complex data.**
-2. **Apply advanced Excel techniques** for analytics and reporting.
-3. **Solve business problems** by aligning data analysis with organizational goals.
+### 💻 Technical Skills  
+- ETL (Data Cleaning & Transformation)  
+- Power Query  
+- Power Pivot  
+- DAX  
+- Data Visualization in Excel  
 
-### **Contact**
-If you’d like to discuss this project or collaborate, feel free to reach out to me via [LinkedIn]
+### 🤝 Soft Skills  
+- User-focused report design  
+- Structured problem-solving  
+- Attention to detail  
+- Business understanding of sales and finance  
+
+---
+
+## 🙌 Acknowledgements  
+- [Codebasics](https://codebasics.io/)
+
+---
+
+## 📌 Conclusion  
+This project highlights my ability to:  
+- Analyze complex datasets and extract insights  
+- Use advanced Excel tools for reporting  
+- Solve real business problems using data  
+
+---
+
+## 📬 Contact  
+Feel free to connect with me on **LinkedIn** to discuss this project or opportunities.
+
+---
+
+⭐ *If you found this project useful, consider giving it a star!*
