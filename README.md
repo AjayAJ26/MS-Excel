@@ -59,7 +59,7 @@ The dataset includes:
 - ✅ **weekly triend**  
 - 😊 **Customer Satisfaction Score**  
 - 👨‍💼 **Agent Performance Metrics**
--    **Sales Amount**
+- 💰 **Sales Amount**
 
 ---
 
