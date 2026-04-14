@@ -25,8 +25,8 @@ The analysis focuses on:
 ---
 
 ## 🔗 Project Links  
-- 📂 **LinkedIn Post:** [Add Your Link Here](https://www.linkedin.com/posts/ajay-jadhav-8381aa347_call-center-report-2023-activity-7417923509600841728-gSZi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFa0LiwBKPtQoWtbb0tI33TxDqKIiEKqm9A)  
-- 🌐 **Live Dashboard / Report:** [Add Your Excel Dashboard Link Here](#)  
+- 📂 **LinkedIn Post:** [Post link](https://www.linkedin.com/posts/ajay-jadhav-8381aa347_call-center-report-2023-activity-7417923509600841728-gSZi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFa0LiwBKPtQoWtbb0tI33TxDqKIiEKqm9A)  
+- 🌐 **Live Dashboard / Report:** [Dashboard link](https://github.com/AjayAJ26/MS-Excel/blob/Chocolate-Sales-Report/Chocolate_Sales__Report.xlsx)  
 <!-- 📊 **Project Presentation (Optional):** [Add Link](#) -->
 
 ---
